@@ -1,0 +1,162 @@
+﻿1
+00:00:18,800 --> 00:00:24,660
+The schedule’s tight on the cluster tonight
+So I parallelized my code
+
+2
+00:00:25,440 --> 00:00:32,240
+All those threads and continuations
+My head’s going to explode
+
+3
+00:00:33,920 --> 00:00:40,200
+And all that boilerplate
+That FactoryBuilderAdapterDelegateImpl
+
+4
+00:00:41,679 --> 00:00:47,000
+Seems unjustified
+Give me something simple
+
+5
+00:00:48,840 --> 00:00:51,600
+Don’t write in Scheme
+Don’t write in C
+
+6
+00:00:52,039 --> 00:00:55,689
+No more pointers
+that I forgot to free()
+
+7
+00:00:56,280 --> 00:01:02,120
+Java’s verbose
+Python’s too slow
+
+8
+00:01:03,039 --> 00:01:05,429
+It’s time you know
+
+9
+00:01:05,879 --> 00:01:09,640
+Write in Go!
+Write in Go!
+
+10
+00:01:10,359 --> 00:01:12,920
+No inheritance anymore
+
+11
+00:01:13,599 --> 00:01:16,599
+Write in Go!
+Write in Go!
+
+12
+00:01:17,400 --> 00:01:20,719
+There’s no do or while,
+just for
+
+13
+00:01:21,480 --> 00:01:30,719
+I don’t care what your linters say
+I’ve got tools for that
+
+14
+00:01:31,359 --> 00:01:33,640
+The code never bothered me anyway
+
+15
+00:01:38,760 --> 00:01:44,480
+It’s funny how some features
+Make every change seem small
+
+16
+00:01:45,120 --> 00:01:52,120
+And the errors that once slowed me
+Don’t get me down at all
+
+17
+00:01:52,560 --> 00:01:59,439
+It’s time to see what Go can do
+’Cause it seems too good to be true
+
+18
+00:01:59,959 --> 00:02:07,079
+No long compile times for me.
+I’m free!
+
+19
+00:02:07,840 --> 00:02:10,599
+Write in Go!
+Write in Go!
+
+20
+00:02:11,080 --> 00:02:14,280
+Kiss your pointer math goodbye
+
+21
+00:02:14,919 --> 00:02:18,059
+Write in Go!
+Write in Go!
+
+22
+00:02:18,419 --> 00:02:21,599
+Time to give GC a try
+
+23
+00:02:22,110 --> 00:02:31,690
+I don’t care if my structures stay
+On the heap or stack
+
+24
+00:02:39,620 --> 00:02:46,240
+My program spawns its goroutines
+without a sound
+
+25
+00:02:46,759 --> 00:02:53,039
+Control is spiraling through
+buffered channels all around
+
+26
+00:02:53,860 --> 00:03:00,120
+I don’t remember why I ever once subclassed
+
+27
+00:03:00,620 --> 00:03:03,080
+I’m never going back
+
+28
+00:03:03,500 --> 00:03:07,780
+My tests all build and pass
+
+29
+00:03:08,419 --> 00:03:11,559
+Write in Go!
+Write in Go!
+
+30
+00:03:11,939 --> 00:03:15,039
+You won’t use Eclipse anymore
+
+31
+00:03:15,400 --> 00:03:18,260
+Write in Go!
+Write in Go!
+
+32
+00:03:18,620 --> 00:03:22,280
+Who cares what Boost is for?
+
+33
+00:03:22,960 --> 00:03:28,200
+I don’t care what the tech leads say
+
+34
+00:03:30,620 --> 00:03:34,900
+I’ll rewrite it all!
+
+35
+00:03:35,860 --> 00:03:39,920
+Writing code never bothered me, anyway.
+

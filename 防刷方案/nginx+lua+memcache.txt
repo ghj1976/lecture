@@ -1,0 +1,92 @@
+#vim /soft/nginx/conf/nginx.conf
+
+worker_processes  1;
+events {
+    worker_connections  1024;
+}
+
+http {
+    include       mime.types;
+    default_type  application/octet-stream;
+    sendfile        on;
+    keepalive_timeout  65;
+    proxy_next_upstream     error timeout;
+    proxy_redirect          off;
+    proxy_set_header        Host $host;
+    proxy_set_header        X-Real-IP $http_x_forwarded_for;
+    proxy_set_header        X-Forwarded-For $proxy_add_x_forwarded_for;
+    client_max_body_size    100m;
+    client_body_buffer_size 256k;
+    proxy_connect_timeout   180;
+    proxy_send_timeout      180;
+    proxy_read_timeout      180;
+    proxy_buffer_size       8k;
+    proxy_buffers           8 64k;
+    proxy_busy_buffers_size 128k;
+    proxy_temp_file_write_size 128k;
+
+    upstream client {
+        server   192.168.200.29:80;
+    }
+
+    upstream client_test {
+        server   192.168.200.29:81;
+    }
+
+    server {
+        listen       80;
+        server_name  localhost;
+
+        location / {
+        content_by_lua '
+            clientIP = ngx.req.get_headers()["X-Real-IP"]
+            if clientIP == nil then
+                clientIP = ngx.req.get_headers()["x_forwarded_for"]
+            end
+            if clientIP == nil then
+                clientIP = ngx.var.remote_addr
+            end
+
+            local memcached = require "resty.memcached"
+            local memc, err = memcached:new()
+            if not memc then
+                ngx.say("failed to instantiate memc: ", err)
+                return
+            end
+
+            local ok, err = memc:connect("127.0.0.1", 11211)
+
+            if not ok then
+                ngx.say("failed to connect: ", err)
+                return
+            end
+
+            local res, flags, err = memc:get(clientIP)
+            if err then
+                ngx.say("failed to get clientIP ", err)
+                return
+            end
+
+            if  res == "1" then
+                ngx.exec("@client_test")
+                return
+            end
+            ngx.exec("@client") ';
+        }
+
+        location @client{
+           proxy_pass http://client;
+        }
+        location @client_test{
+           proxy_pass http://client_test;
+        }
+    	location /hello {
+    	    default_type 'text/plain';
+    	    content_by_lua 'ngx.say("hello, lua")';
+    	}
+    	location = /50x.html {
+    	    root   html;
+    	}
+
+   }
+}

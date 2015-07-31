@@ -1,0 +1,1878 @@
+<zuiprezi>
+  <version>5</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-1123918.214015077" y="-1088428.9492229293" width="2247852.115829848" height="2176857.8984458586"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="1_4211355" type="label" x="-370365.02000265365" y="-1026465.8207984561" r="0" s="4023.5797678229314" class="head">
+      <textfield>
+        <x>-160.6</x>
+        <y>-15.4</y>
+        <text><![CDATA[通过敏捷项目管理来提升价值:]]></text>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="5_4470367" type="button" x="126106.83820612931" y="476869.9090833762" r="0" s="1919.8211902042165" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1039.5273899033298</w>
+        <h>637.10400390625</h>
+      </size>
+    </object>
+    <object id="92_4211355" type="button" x="180498.81843423838" y="420140.14293322555" r="0" s="17.00054889424271" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>978.5513181469158</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="80_4211355" type="label" x="180588.98376969303" y="420515.85488661425" r="0" s="20.76522080476233" class="head">
+      <textfield>
+        <x>-376.55</x>
+        <y>-246.85</y>
+        <text><![CDATA[The Product Owner: Represents the business and is the voice of the customer Accountable for ensuring that the team delivers value (ROI)Owns the Product BacklogWrites customer-centric items (user stories)Prioritizes user stories based on value to businessAdjust features and priority every iteration, as neededAccept or reject workThere should be only 1 Product Owner: May also be a member of the development teamIdeally should NOT be the ScrumMaster]]></text>
+        <w>753.1</w>
+        <h>379.2</h>
+        <annotations>r0-20 { align: left; }
+r21-79 { bullet: true; }
+r21-79 { align: left; }
+r21-79 { blockIndent: 36; }
+r79-139 { bullet: true; }
+r79-139 { align: left; }
+r79-139 { blockIndent: 36; }
+r140-165 { bullet: true; }
+r140-165 { align: left; }
+r140-165 { blockIndent: 36; }
+r165-210 { bullet: true; }
+r165-210 { align: left; }
+r165-210 { blockIndent: 72; }
+r210-262 { bullet: true; }
+r210-262 { align: left; }
+r210-262 { blockIndent: 72; }
+r262-318 { bullet: true; }
+r262-318 { align: left; }
+r262-318 { blockIndent: 72; }
+r318-340 { bullet: true; }
+r318-340 { align: left; }
+r318-340 { blockIndent: 72; }
+r341-380 { bullet: true; }
+r341-380 { align: left; }
+r341-380 { blockIndent: 36; }
+r380-425 { bullet: true; }
+r380-425 { align: left; }
+r380-425 { blockIndent: 72; }
+r425-462 { bullet: true; }
+r425-462 { align: left; }
+r425-462 { blockIndent: 72; }</annotations>
+      </textfield>
+    </object>
+    <object id="91_4211355" type="button" x="180857.94484719684" y="435168.92115188285" r="0" s="15.188591761574774" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>947.6561709020956</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="81_4211355" type="label" x="180727.8491618091" y="434602.217283041" r="0" s="20.76522080476233" class="body">
+      <textfield>
+        <x>-317.95</x>
+        <y>-187.7</y>
+        <text><![CDATA[There is a conflict of interest.PO:  Looks after the needs of the business and all things that are valuable to the them. SM: Looks after the needs of the team. Shield the team from external interferences.Collaboration between the two roles is important but some degree of separation is required. When the role is carried out by the same person the conflicting interests become magnified and one or both sides end up losing.]]></text>
+        <w>635.9</w>
+        <h>325.6</h>
+        <annotations>r0-33 { align: left; }
+r33-123 { align: left; }
+r124-208 { align: left; }
+r209-302 { align: left; }
+r303-430 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="82_4211355" type="shape" x="177693.6458287094" y="427871.5054102814" r="87.7320785823779" s="31.160643206836216" class="line3">
+      <geom type="arrow">
+        <sp>-80.01428414016037 -19.9141815112136</sp>
+        <ep>80.01428414016036 -19.9141815112136</ep>
+        <b>39.8283630224272</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="84_4211355" type="label" x="494546.1426481364" y="407654.64194837987" r="0" s="37.540229871137385" class="body">
+      <textfield>
+        <x>-378.45</x>
+        <y>-94.85</y>
+        <text><![CDATA[Responsible for delivering potentially shippable product increments at the end of each Sprint. Ideal size 7 (+-2)  Ideally with cross-functional skills.  If not fully cross functional then with large overlapsSELF ORGANISING – As long as the above items are observed]]></text>
+        <w>756.95</w>
+        <h>164.8</h>
+        <annotations>r0-96 { align: left; }
+r97-157 { bullet: true; }
+r97-157 { align: left; }
+r97-157 { blockIndent: 36; }
+r157-212 { bullet: true; }
+r157-212 { align: left; }
+r157-212 { blockIndent: 36; }
+r212-269 { bullet: true; }
+r212-269 { align: left; }
+r212-269 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="85_4211355" type="label" x="146672.52197516037" y="674828.481691409" r="0" s="6.200228603894358" class="body">
+      <textfield>
+        <x>-431.5</x>
+        <y>-109.2</y>
+        <text><![CDATA[Product backlog: An ordered list of all requirementsOwned by the Product OwnerOrdered by the Product Owner based on the value to business, risks, dependencies, SLAItems in the Product Backlog are written in story formatEstimated for value to business by the Product Owner: e.g. 100, 75, 50, 25, 10Estimated for effort required by the Team: e.g. 1,2,3,5,8,13,21Optional: Product Owner could order by the effort / value ratio]]></text>
+        <annotations>r0-18 { align: left; }
+r18-54 { bullet: true; }
+r18-54 { align: left; }
+r18-54 { blockIndent: 36; }
+r54-81 { bullet: true; }
+r54-81 { align: left; }
+r54-81 { blockIndent: 36; }
+r81-167 { bullet: true; }
+r81-167 { align: left; }
+r81-167 { blockIndent: 36; }
+r167-224 { bullet: true; }
+r167-224 { align: left; }
+r167-224 { blockIndent: 36; }
+r224-303 { bullet: true; }
+r224-303 { align: left; }
+r224-303 { blockIndent: 36; }
+r303-367 { bullet: true; }
+r303-367 { align: left; }
+r303-367 { blockIndent: 36; }
+r367-430 { bullet: true; }
+r367-430 { align: left; }
+r367-430 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="87_4211355" type="image" x="147234.2386610869" y="676645.0566070176" r="0" s="10.913541346302623">
+      <source w="575" h="144">
+        537855919.JPG
+        <url>537855919.JPG</url>
+      </source>
+      <resource>
+        <id>537855919</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/d/1/fae93015f9e7fb3069dbbf45fff5b50805b5f.JPG</url>
+      </resource>
+      <sourceUrl>Capture.JPG</sourceUrl>
+    </object>
+    <object id="88_4211355" type="persistentgroup" x="147184.50256536444" y="675791.1241559077" r="0" s="12.062071303599273">
+      <m o="85_4211355"/>
+      <m o="87_4211355"/>
+    </object>
+    <object id="0_4435214" type="label" x="-574226.4995123501" y="-826098.9059538567" r="0" s="2873.9855484449504" class="strong">
+      <textfield>
+        <x>-168.35</x>
+        <y>-42.2</y>
+        <text><![CDATA[项目管理是什么?为什么需要敏捷项目管理?“搞定这事”有什么问题吗?]]></text>
+        <annotations>r0-9 { bullet: true; }
+r0-9 { align: left; }
+r0-9 { blockIndent: 36; }
+r9-22 { bullet: true; }
+r9-22 { align: left; }
+r9-22 { blockIndent: 36; }
+r22-35 { bullet: true; }
+r22-35 { align: left; }
+r22-35 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="2_4435214" type="button" x="-166887.5474588144" y="-858677.1148316194" r="0" s="760.8977640075997" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>2402.912621359223</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="0_4444166" type="button" x="-1105631.10252146" y="-575611.3133520865" r="47.17933214984835" s="49.54718532036745" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>562.5724501417694</w>
+        <h>485.94547109530015</h>
+      </size>
+      <meta>
+        <parentObjlib>divergent-1</parentObjlib>
+      </meta>
+    </object>
+    <object id="2_4444166" type="label" x="-1101175.663939356" y="-579767.2160655169" r="47.1793321498484" s="38.46053291212738" class="head">
+      <textfield>
+        <x>-156.3</x>
+        <y>-28.8</y>
+        <text><![CDATA[过程治理有两种主要类型]]></text>
+        <w>312.6</w>
+        <h>57.6</h>
+        <annotations>r0-6 { align: center; }
+r6-12 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="3_4444166" type="button" x="-1114391.1969692598" y="-577845.990668992" r="47.17933214984832" s="12.625842159736406" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>divergent-1</parentObjlib>
+      </meta>
+    </object>
+    <object id="4_4444166" type="label" x="-1114460.1943533875" y="-577577.4886021254" r="47.179332149848406" s="15.43092620242879" class="body">
+      <textfield>
+        <x>-242</x>
+        <y>-55.6</y>
+        <text><![CDATA[每部分工作内容要完全的理解我们要很好地定义输入：-->连续性的结果我们在开始就清楚“我们需要知道所有事情”不会有新的重大发现]]></text>
+        <annotations>r0-65 { color: #322c69; }
+r0-14 { align: left; }
+r14-35 { align: left; }
+r35-56 { align: left; }
+r56-65 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="5_4444166" type="button" x="-1103926.1135271448" y="-566704.1959744128" r="47.17933214984835" s="12.77530342706486" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>divergent-1</parentObjlib>
+      </meta>
+    </object>
+    <object id="6_4444166" type="shape" x="-1107063.4671530693" y="-576379.1468105561" r="-0.06149232768210473" s="26.569243597485478" class="line3">
+      <geom type="arrow">
+        <sp>91.71870168110554 -9.035915389642811</sp>
+        <ep>-91.71870168110554 -9.035915389642858</ep>
+        <b>-18.07183077928567</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>divergent-1</parentObjlib>
+      </meta>
+    </object>
+    <object id="7_4444166" type="shape" x="-1105055.9641710743" y="-574219.7836267774" r="-85.5798433726211" s="26.569243597485467" class="line3">
+      <geom type="arrow">
+        <sp>91.71870168110554 9.035915389642858</sp>
+        <ep>-91.71870168110554 9.035915389642811</ep>
+        <b>18.07183077928567</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>divergent-1</parentObjlib>
+      </meta>
+    </object>
+    <object id="0_4470367" type="persistentgroup" x="-1106984.798296583" y="-574269.9776662004" r="47.179332149848406" s="21.562330872297082">
+      <m o="6_4444166"/>
+      <m o="7_4444166"/>
+    </object>
+    <object id="1_4444166" type="button" x="-1101364.503235639" y="-579737.3942424533" r="47.17933214984834" s="11.288228692255746" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentObjlib>divergent-1</parentObjlib>
+      </meta>
+    </object>
+    <object id="12_4444166" type="label" x="-1104014.1869723366" y="-566513.6493521791" r="47.17933214984834" s="20.53856277543278" class="body">
+      <textfield>
+        <x>-182</x>
+        <y>-55.6</y>
+        <text><![CDATA[频繁地检查与适应我们有效地定义输入我们开始对过程知道的很少我们在过程中不断审视以加速学习]]></text>
+        <annotations>r0-47 { color: #322c69; }
+r0-9 { align: left; }
+r9-19 { align: left; }
+r19-32 { align: left; }
+r32-47 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="13_4444166" type="label" x="-1102721.9402527306" y="-568084.6542100791" r="47.17933214984835" s="28.75398788560589" class="strong">
+      <textfield autoSize="true">
+        <x>-96</x>
+        <y>-15.4</y>
+        <text><![CDATA[经验性过程 (敏捷)]]></text>
+        <annotations>r0-10 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="14_4444166" type="label" x="-1114023.5107073153" y="-579635.5702882825" r="47.17933214984842" s="22.59241905297599" class="strong">
+      <textfield autoSize="true">
+        <x>-108</x>
+        <y>-15.4</y>
+        <text><![CDATA[预先定义过程 (瀑布)]]></text>
+        <annotations>r0-11 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="18_4444166" type="button" x="-1102226.1626317427" y="-562279.2263993069" r="68.7887017945424" s="0.5164318985939441" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1467.956499109301</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="17_4444166" type="label" x="-1102212.097740238" y="-562268.7476112925" r="68.78870179454242" s="1.4638471938499333" class="body">
+      <textfield>
+        <x>-240.35</x>
+        <y>-55.6</y>
+        <text><![CDATA[敏捷是通过迭代&增量过程来控制不确定性持续反馈环  vs.  命令与控制]]></text>
+        <w>480.7</w>
+        <h>111.2</h>
+        <annotations>r0-22 { color: #000; }
+ r22-39 { color: #640f1e; }
+r0-20 { align: center; }
+r22-39 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="3_4470367" type="button" x="-1103189.9220129119" y="-550171.9181612005" r="0" s="5.864140288680834" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>2414.1449236610733</w>
+        <h>1461.0740216191462</h>
+      </size>
+    </object>
+    <object id="2_4299738" type="button" x="-1093766.3545957545" y="-544828.0875868959" r="-40.65242339777314" s="2.0159670262668072" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="1_4470367" type="label" x="-1103109.5803357894" y="-550269.8798884937" r="0" s="13.370203096981232" class="strong">
+      <textfield>
+        <x>-420.3</x>
+        <y>-243.2</y>
+        <text><![CDATA[流行的敏捷实践:Scrum - 一直以来最流行XP - 极限编程 - 工程实践...Kanban - 来源于日本的“信号板” – 强调持续性交付 (限制在制品Limit WIP)Lean - 来源于丰田生产方式(TPS)，高效优化工作流RUP - Rational Unified Process - 因IBM在用而流行，但不是真的敏捷！流行性低的敏捷实践:DSDM - 动态系统开发方法 (没有Scrum敏捷，但是比PRINCE-II要敏捷)FDD - 特性驱动开发 ASD - 适应性软件开发Crystal - 水晶方法]]></text>
+        <annotations>r0-8 { color: #640f1e; }
+ r71-95 { color: #5b28e0; }
+ r181-191 { color: #640f1e; }
+ r209-236 { color: #5b28e0; }
+ r0-9 { align: left; }
+r10-26 { bullet: true; }
+r10-26 { align: left; }
+r10-26 { blockIndent: 36; }
+r27-47 { bullet: true; }
+r27-47 { align: left; }
+r27-47 { blockIndent: 36; }
+r48-96 { bullet: true; }
+r48-96 { align: left; }
+r48-96 { blockIndent: 36; }
+r97-127 { bullet: true; }
+r97-127 { align: left; }
+r97-127 { blockIndent: 36; }
+r128-180 { bullet: true; }
+r128-180 { align: left; }
+r128-180 { blockIndent: 36; }
+r181-192 { align: left; }
+r193-237 { bullet: true; }
+r193-237 { align: left; }
+r193-237 { blockIndent: 36; }
+r237-251 { bullet: true; }
+r237-251 { align: left; }
+r237-251 { blockIndent: 36; }
+r251-265 { bullet: true; }
+r251-265 { align: left; }
+r251-265 { blockIndent: 36; }
+r265-279 { bullet: true; }
+r265-279 { align: left; }
+r265-279 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="4_4470367" type="image" x="126131.26938664532" y="476905.74107740045" r="0" s="2498.9635065973716">
+      <source w="763" h="433">
+        539255225.JPG
+        <url>539255225.JPG</url>
+      </source>
+      <resource>
+        <id>539255225</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/d/e/25d2dae8654bb835915c86d8fa13cd0b8f967.JPG</url>
+      </resource>
+      <sourceUrl>SCRUM.JPG</sourceUrl>
+    </object>
+    <object id="2_4543226" type="button" x="-1104340.5495062328" y="-552205.0468283416" r="-49.53634876243973" s="0.09790575109460777" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>865.8395102981233</w>
+        <h>607.357421875</h>
+      </size>
+    </object>
+    <object id="1_4543226" type="label" x="-1104341.1810636683" y="-552205.553466639" r="-49.53634876243974" s="0.11572043970113369" class="strong">
+      <textfield>
+        <x>-307.6</x>
+        <y>-189.6</y>
+        <text><![CDATA[XP - 极限编程:  TDD - 测试驱动开发在写产品代码前先定义自动化单元测试代码没被测试就等于没写代码(IBM)结对编程 -两个开发人员做一件事情.  驾驶员 & 导航员驾驶员: 写代码 导航员: 做分析和设计，评审工作是否做完，向前看频繁切换角色 重构 -改变现存代码结构来移除坏味道改变内部结构但不改变外部行为]]></text>
+        <annotations>r0-11 { color: #87234b; }
+ r11-13 { color: #194a99; }
+ r13-19 { color: #175d66; }
+ r19-26 { color: #194a99; }
+ r26-63 { color: #322c69; }
+ r63-64 { color: #194a99; }
+ r64-70 { color: #175d66; }
+ r70-129 { color: #322c69; }
+ r129-130 { color: #194a99; }
+ r130-138 { color: #322c69; }
+ r138-139 { color: #194a99; }
+ r139-143 { color: #175d66; }
+ r143-173 { color: #322c69; }
+r0-13 { align: left; }
+r13-26 { bullet: true; }
+r13-26 { align: left; }
+r13-26 { blockIndent: 36; }
+r26-44 { align: left; }
+r26-44 { blockIndent: 36; }
+r44-63 { align: left; }
+r44-63 { blockIndent: 36; }
+r64-71 { bullet: true; }
+r64-71 { align: left; }
+r64-71 { blockIndent: 36; }
+r71-95 { align: left; }
+r71-95 { blockIndent: 36; }
+r95-105 { bullet: true; }
+r95-105 { align: left; }
+r95-105 { blockIndent: 72; }
+r105-130 { bullet: true; }
+r105-130 { align: left; }
+r105-130 { blockIndent: 72; }
+r130-137 { align: left; }
+r130-137 { blockIndent: 36; }
+r137-139 { align: left; }
+r137-139 { blockIndent: 36; }
+r139-144 { bullet: true; }
+r139-144 { align: left; }
+r139-144 { blockIndent: 36; }
+r144-159 { align: left; }
+r144-159 { blockIndent: 36; }
+r159-173 { align: left; }
+r159-173 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="3_4543226" type="shape" x="-1104457.69995072" y="-552215.7940737446" r="-38.90815892972129" s="0.8075087413574822" class="line2">
+      <geom type="arrow">
+        <sp>-101.19514963936685 41.6642145972795</sp>
+        <ep>101.19514963936685 41.6642145972795</ep>
+        <b>-83.328429194559</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="7_4543226" type="button" x="-1092947.0881355808" y="-543869.88010863" r="-40.652423397773156" s="1.5501091021434932" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>580.1154448464663</w>
+        <h>541.6573645201079</h>
+      </size>
+    </object>
+    <object id="6_4543226" type="label" x="-1092930.4061289225" y="-543887.0000143166" r="-40.652423397773106" s="1.0308514306087873" class="strong">
+      <textfield>
+        <x>-374.2</x>
+        <y>-337</y>
+        <text><![CDATA[Scrum基础:角色:Product Owner - Scrum Master -  Team - 工件:Product BacklogRelease Backlog (可选)Sprint BacklogDefects Backlog (可选)燃尽图(Burn down charts)仪式: 时间盒短迭代(2 - 4 周)Sprint计划会议 -                   2 周的Sprint 4小时每日站立会议 -                    15 分钟Sprint评审 -                           2 周的Sprint 2小时Sprint回顾 -                           2 周的Sprint 1.5小时Product Backlog提炼 -          迭代时间的5 to 10% (团队、PO、SM)                                                通常两周大约 2 - 4 小时Release Planning (可选) - 依赖发布周期发布周期：理想上每3-6个月一次。不会超过12个月3个月的Release Planning：4小时]]></text>
+        <annotations>r0-8 { color: #640f1e; }
+ r9-12 { color: #000; }
+ r56-59 { color: #000; }
+ r76-96 { color: #175d66; }
+ r112-132 { color: #175d66; }
+ r156-159 { color: #000; }
+ r166-175 { color: #322c69; }
+ r208-219 { color: #322c69; }
+ r251-254 { color: #322c69; }
+ r294-305 { color: #322c69; }
+ r346-360 { color: #322c69; }
+ r397-482 { color: #322c69; }
+ r482-563 { color: #175d66; }
+r0-9 { align: left; }
+r9-13 { align: left; }
+r13-30 { bullet: true; }
+r13-30 { align: left; }
+r13-30 { blockIndent: 36; }
+r30-47 { bullet: true; }
+r30-47 { align: left; }
+r30-47 { blockIndent: 36; }
+r47-55 { bullet: true; }
+r47-55 { align: left; }
+r47-55 { blockIndent: 36; }
+r56-60 { align: left; }
+r60-76 { bullet: true; }
+r60-76 { align: left; }
+r60-76 { blockIndent: 36; }
+r76-97 { bullet: true; }
+r76-97 { align: left; }
+r76-97 { blockIndent: 36; }
+r97-112 { bullet: true; }
+r97-112 { align: left; }
+r97-112 { blockIndent: 36; }
+r112-133 { bullet: true; }
+r112-133 { align: left; }
+r112-133 { blockIndent: 36; }
+r133-155 { bullet: true; }
+r133-155 { align: left; }
+r133-155 { blockIndent: 36; }
+r156-176 { align: left; }
+r177-223 { bullet: true; }
+r177-223 { align: left; }
+r177-223 { blockIndent: 36; }
+r223-257 { bullet: true; }
+r223-257 { align: left; }
+r223-257 { blockIndent: 36; }
+r257-309 { bullet: true; }
+r257-309 { align: left; }
+r257-309 { blockIndent: 36; }
+r309-363 { bullet: true; }
+r309-363 { align: left; }
+r309-363 { blockIndent: 36; }
+r363-419 { bullet: true; }
+r363-419 { align: left; }
+r363-419 { blockIndent: 36; }
+r419-481 { align: left; }
+r419-481 { blockIndent: 36; }
+r482-513 { bullet: true; }
+r482-513 { align: left; }
+r482-513 { blockIndent: 36; }
+r513-539 { align: left; }
+r513-539 { blockIndent: 72; }
+r539-563 { align: left; }
+r539-563 { blockIndent: 72; }</annotations>
+      </textfield>
+    </object>
+    <object id="4_4299738" type="image" x="-1093766.3545957555" y="-544827.9008382165" r="-40.6524233977731" s="5.867183323586506">
+      <source w="173" h="172">
+        539795495.png
+        <url>539795495.png</url>
+      </source>
+      <resource>
+        <id>539795495</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/8/8/0a2ebf5cedb3f8e6df0e0f276c8a328255405.png</url>
+      </resource>
+      <sourceUrl>Scrum pillars-resized-173.png</sourceUrl>
+    </object>
+    <object id="7_4299738" type="button" x="-554649.8065784782" y="427471.8195865576" r="0" s="19.22278163325472" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>673.8069441864366</w>
+        <h>614.7654254493445</h>
+      </size>
+    </object>
+    <object id="5_4299738" type="label" x="-554776.8086865436" y="427547.98298513755" r="0" s="13.251215707495342" class="strong">
+      <textfield>
+        <x>-273.85</x>
+        <y>-337</y>
+        <text><![CDATA[产品负责人(PO): 确保团队交付价值(ROI)驱动产品成功: 对客户最新需求的预判创建并讨论产品愿景清晰的目标，促进高效工作拥有Product Backlog根据最新信息，创建和维护Product Backlog写以客户为中心需求(用户故事)...持续性基于商业价值对用户故事排列优先级...持续性和团队一起决定迭代目标接受或拒绝工作参加Sprint会议必须参加Sprint计划和评审会可以参加每日立会和Sprint回顾应该只有1个PO也可以是开发团队的一位成员但绝对不应该是Scrum Master, Why?]]></text>
+        <annotations>r0-10 { color: #640f1e; }
+ r11-12 { color: #640f1e; }
+ r137-140 { color: #194a99; }
+ r160-163 { color: #194a99; }
+ r0-12 { align: left; }
+r13-27 { bullet: true; }
+r13-27 { align: left; }
+r13-27 { blockIndent: 36; }
+r28-37 { bullet: true; }
+r28-37 { align: left; }
+r28-37 { blockIndent: 36; }
+r37-48 { align: left; }
+r37-48 { blockIndent: 72; }
+r49-59 { bullet: true; }
+r49-59 { align: left; }
+r49-59 { blockIndent: 36; }
+r59-72 { align: left; }
+r59-72 { blockIndent: 72; }
+r73-91 { bullet: true; }
+r73-91 { align: left; }
+r73-91 { blockIndent: 36; }
+r91-119 { align: left; }
+r91-119 { blockIndent: 72; }
+r119-141 { align: left; }
+r119-141 { blockIndent: 72; }
+r141-164 { align: left; }
+r141-164 { blockIndent: 72; }
+r164-176 { align: left; }
+r164-176 { blockIndent: 72; }
+r177-185 { bullet: true; }
+r177-185 { align: left; }
+r177-185 { blockIndent: 36; }
+r186-197 { bullet: true; }
+r186-197 { align: left; }
+r186-197 { blockIndent: 36; }
+r197-214 { align: left; }
+r197-214 { blockIndent: 72; }
+r214-232 { align: left; }
+r214-232 { blockIndent: 72; }
+r233-242 { bullet: true; }
+r233-242 { align: left; }
+r233-242 { blockIndent: 36; }
+r242-256 { align: left; }
+r242-256 { blockIndent: 72; }
+r256-281 { align: left; }
+r256-281 { blockIndent: 72; }</annotations>
+      </textfield>
+    </object>
+    <object id="8_4299738" type="button" x="-552007.8378800517" y="432646.47928961494" r="30.184179090736006" s="0.4450200223879174" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1549.701569341604</w>
+        <h>505.98046898841494</h>
+      </size>
+    </object>
+    <object id="6_4299738" type="label" x="-552016.8095043951" y="432635.99427611445" r="30.184179090736006" s="0.5830566021183182" class="strong">
+      <textfield>
+        <x>-428</x>
+        <y>-109.2</y>
+        <text><![CDATA[关注点会发生冲突:PO: 关注商业需求和所有有价值的事.SM: 关注团队需求. 保护团队免受外部干扰.两种角色之间的协作很重要，但是也要适当保持距离. 当两种角色本应有的合理化冲突由同一个人承担时，就无法朝着好的一面发展]]></text>
+        <annotations>r0-9 { color: #640f1e; }
+ r11-14 { color: #322c69; }
+ r31-34 { color: #322c69; }
+ r0-10 { align: left; }
+r11-31 { bullet: true; }
+r11-31 { align: left; }
+r11-31 { blockIndent: 36; }
+r31-55 { bullet: true; }
+r31-55 { align: left; }
+r31-55 { blockIndent: 36; }
+r56-82 { align: left; }
+r83-117 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="9_4299738" type="shape" x="-552152.5601489414" y="432051.39609973086" r="34.49731571535708" s="4.216295906930339" class="line2">
+      <geom type="arrow">
+        <sp>-114.44149104275284 43.95795379102406</sp>
+        <ep>114.44149104275284 43.95795379102406</ep>
+        <b>-87.91590758204812</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="11_4299738" type="button" x="7862.616098153227" y="435108.53336724854" r="0" s="18.75124325183084" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1083.9134919241574</w>
+        <h>613.984375</h>
+      </size>
+    </object>
+    <object id="10_4299738" type="label" x="7969.227471052462" y="435039.4385399949" r="0" s="21.898950539228686" class="strong">
+      <textfield>
+        <x>-349.1</x>
+        <y>-216.4</y>
+        <text><![CDATA[团队:负责每个迭代交付潜在产品增量. 理想的团队大小是5-9人理想是跨功能和多技能(不是矩阵环境)如果不全是跨功能，那就尽量大范围重叠自组织团队共同决定如何完成他们的工作不是由团队外的人控制团队调整自己的时间，该如何做，什么时候做完(Sprint承诺)参加Sprint会议必须参加Sprint计划、评审、回顾和每日立会另外：基本没有PO和SM，每日立会也必须发生。]]></text>
+        <annotations>r0-4 { color: #640f1e; }
+ r0-4 { align: left; }
+r5-22 { align: left; }
+r23-36 { bullet: true; }
+r23-36 { align: left; }
+r23-36 { blockIndent: 36; }
+r36-55 { bullet: true; }
+r36-55 { align: left; }
+r36-55 { blockIndent: 36; }
+r55-74 { bullet: true; }
+r55-74 { align: left; }
+r55-74 { blockIndent: 36; }
+r75-79 { bullet: true; }
+r75-79 { align: left; }
+r75-79 { blockIndent: 36; }
+r79-95 { align: left; }
+r79-95 { blockIndent: 72; }
+r95-106 { align: left; }
+r95-106 { blockIndent: 72; }
+r106-138 { align: left; }
+r106-138 { blockIndent: 72; }
+r139-150 { bullet: true; }
+r139-150 { align: left; }
+r139-150 { blockIndent: 36; }
+r150-174 { align: left; }
+r150-174 { blockIndent: 72; }
+r174-197 { align: left; }
+r174-197 { blockIndent: 72; }</annotations>
+      </textfield>
+    </object>
+    <object id="13_4299738" type="button" x="367559.358340922" y="150464.1407235002" r="0" s="12.93952476852709" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1181.6938401983027</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="43_4299738" type="button" x="935780.6868960268" y="5248.389082994255" r="-46.204000476515155" s="6.098463997413545" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>787.1847171187401</w>
+        <h>459.1156404046955</h>
+      </size>
+    </object>
+    <object id="40_4299738" type="image" x="935401.5488083026" y="6393.058991152016" r="-85.72322992055922" s="0.1760039404614663">
+      <source w="731" h="419">
+        540207605.JPG
+        <url>540207605.JPG</url>
+      </source>
+      <resource>
+        <id>540207605</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/2/f/36bf563beed73e390f657a31f866d1ec0733a.JPG</url>
+      </resource>
+      <sourceUrl>Daily.JPG</sourceUrl>
+    </object>
+    <object id="12_4299738" type="label" x="367765.60240510816" y="150346.05644591234" r="0" s="17.665313124158267" class="strong">
+      <textfield>
+        <x>-348.1</x>
+        <y>-162.8</y>
+        <text><![CDATA[Scrum Master (SM):SM确保Scrum过程被合理有效地运用 另外: SM不应该是团队领导或经理，他应该是引导者移除障碍来帮助团队交付Sprint目标担当团队和一切外部干扰之间的缓冲为团队排除一切外部干扰确保团队是全功能和多产的在产品、发布和Sprint Backlogs上，帮助产品负责人和团队确保下列仪式正确进行：每日立会、Sprint计划会，评审，回顾]]></text>
+        <annotations>r0-18 { color: #640f1e; }
+ r42-67 { color: #194a99; }
+ r0-19 { align: left; }
+r20-41 { bullet: true; }
+r20-41 { align: left; }
+r20-41 { blockIndent: 36; }
+r42-68 { bullet: true; }
+r42-68 { align: left; }
+r42-68 { blockIndent: 36; }
+r69-89 { bullet: true; }
+r69-89 { align: left; }
+r69-89 { blockIndent: 36; }
+r89-106 { bullet: true; }
+r89-106 { align: left; }
+r89-106 { blockIndent: 36; }
+r106-118 { bullet: true; }
+r106-118 { align: left; }
+r106-118 { blockIndent: 36; }
+r118-131 { bullet: true; }
+r118-131 { align: left; }
+r118-131 { blockIndent: 36; }
+r131-166 { bullet: true; }
+r131-166 { align: left; }
+r131-166 { blockIndent: 36; }
+r166-197 { bullet: true; }
+r166-197 { align: left; }
+r166-197 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="17_4299738" type="button" x="-537819.8287673693" y="885198.2505447479" r="0" s="24.309962411523145" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1332.4749513618676</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="15_4299738" type="label" x="-537958.3409192715" y="884992.6590678397" r="0" s="27.87633657474604" class="strong">
+      <textfield>
+        <x>-417</x>
+        <y>-189.6</y>
+        <text><![CDATA[Product backlog:一个排好序的全部需求的列表产品负责人拥有包括新产品开发，Bugs和问题，支持和培训也可能包括Spikes(探针)！什么是Spikes？用于探索一部分内容或创造简单原型的研发时间盒 无法对工作量和价值进行评估时可添加Spikes不要尝试使用Spikes来打破Scrum规则产品负责人基于商业价值、风险、依赖、延迟成本对其排列优先级条目以用户故事的格式编写(作为<角色>，我希望<功能>，以便<目的>)由团队来评估工作量：e.g.1,2,3,5,8,13,21由产品负责人来对商业价值评估：e.g. 100, 75, 50, 25, 10 (%)产品负责人可以按照"工作量/价值"来排列优先级(可选)...]]></text>
+        <annotations>r0-16 { color: #640f1e; }
+ r88-110 { color: #175d66; }
+ r112-135 { color: #175d66; }
+ r136-159 { color: #175d66; }
+ r250-255 { color: #175d66; }
+ r0-17 { align: left; }
+r17-31 { bullet: true; }
+r17-31 { align: left; }
+r17-31 { blockIndent: 36; }
+r31-39 { bullet: true; }
+r31-39 { align: left; }
+r31-39 { blockIndent: 36; }
+r39-61 { bullet: true; }
+r39-61 { align: left; }
+r39-61 { blockIndent: 36; }
+r61-88 { bullet: true; }
+r61-88 { align: left; }
+r61-88 { blockIndent: 36; }
+r88-112 { align: left; }
+r88-112 { blockIndent: 72; }
+r112-136 { align: left; }
+r112-136 { blockIndent: 72; }
+r136-159 { align: left; }
+r136-159 { blockIndent: 72; }
+r160-190 { bullet: true; }
+r160-190 { align: left; }
+r160-190 { blockIndent: 36; }
+r190-226 { bullet: true; }
+r190-226 { align: left; }
+r190-226 { blockIndent: 36; }
+r226-256 { bullet: true; }
+r226-256 { align: left; }
+r226-256 { blockIndent: 36; }
+r256-300 { bullet: true; }
+r256-300 { align: left; }
+r256-300 { blockIndent: 36; }
+r300-330 { bullet: true; }
+r300-330 { align: left; }
+r300-330 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="19_4299738" type="button" x="-535553.1208803597" y="888360.0965415979" r="40.513172914955085" s="0.47976841499132694" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>581.4072062051788</w>
+        <h>541.5104032263911</h>
+      </size>
+    </object>
+    <object id="18_4299738" type="image" x="-535553.1386160051" y="888360.2448387255" r="40.51317291495508" s="0.32246736062349385">
+      <source w="774" h="664">
+        540004325.JPG
+        <url>540004325.JPG</url>
+      </source>
+      <resource>
+        <id>540004325</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/9/9/67a83d012cac984ff68022af9ddfd5c23e4f2.JPG</url>
+      </resource>
+      <sourceUrl>User_Story2.JPG</sourceUrl>
+    </object>
+    <object id="20_4299738" type="shape" x="-536181.2471564658" y="888196.8984291655" r="-7.47917853022362" s="3.1358183397768293" class="line2">
+      <geom type="arrow">
+        <sp>-160.24280305961236 43.01501697662849</sp>
+        <ep>160.24280305961236 43.01501697662849</ep>
+        <b>-86.03003395325696</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="23_4299738" type="shape" x="-531800.6550408595" y="889768.7354652057" r="4.384681495593144" s="3.135818339776826" class="line2">
+      <geom type="arrow">
+        <sp>-99.89726202497816 38.61846611348449</sp>
+        <ep>99.89726202497816 38.61846611348449</ep>
+        <b>-77.23693222696897</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="26_4299738" type="button" x="-531261.4743048011" y="890295.3363915933" r="60.52909497790755" s="0.7289811452087576" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1230.647373397047</w>
+        <h>522.6997309923172</h>
+      </size>
+    </object>
+    <object id="24_4299738" type="image" x="-531261.3965129864" y="890295.3147024597" r="60.52909497790755" s="1.0434693351742332">
+      <source w="818" h="307">
+        540047857.JPG
+        <url>540047857.JPG</url>
+      </source>
+      <resource>
+        <id>540047857</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/1/d/f57dba14fbf7527f25bd88eb921cbda5dc71a.JPG</url>
+      </resource>
+      <sourceUrl>Work_Effort_Ratio.JPG</sourceUrl>
+    </object>
+    <object id="28_4299738" type="button" x="-194298.02084546076" y="765303.1701035294" r="30.137479648219866" s="12.25013063513045" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>457.0822105046795</w>
+        <h>479.66242572292686</h>
+      </size>
+    </object>
+    <object id="27_4299738" type="image" x="-194324.52002216395" y="765338.0404665387" r="30.137479648219866" s="11.433158351382719">
+      <source w="435" h="433">
+        540071489.jpg
+        <url>540071489.jpg</url>
+      </source>
+      <resource>
+        <id>540071489</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/2/4/19ec5282372d954348184c42a57ff739bd9b1.jpg</url>
+      </resource>
+      <sourceUrl>Sprint_Plan2.jpg</sourceUrl>
+    </object>
+    <object id="30_4299738" type="button" x="-198739.74946131295" y="862290.5914759814" r="40.34667270663686" s="14.523792102651864" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>404.3870613013079</w>
+        <h>270.94550636242025</h>
+      </size>
+    </object>
+    <object id="35_4299738" type="button" x="-196436.5670144805" y="862477.3106130651" r="26.243344543843282" s="0.2729428619583635" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1632.6640506813435</w>
+        <h>544.9374980926514</h>
+      </size>
+    </object>
+    <object id="34_4299738" type="image" x="-196431.92013115392" y="862482.7159700709" r="26.24334454384328" s="0.36677675194745474">
+      <source w="1120" h="309">
+        540189129.JPG
+        <url>540189129.JPG</url>
+      </source>
+      <resource>
+        <id>540189129</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/f/b/7dda7e65487bd02a1fb48f4a8b6affc928666.JPG</url>
+      </resource>
+      <sourceUrl>Done.JPG</sourceUrl>
+    </object>
+    <object id="0_4166457" type="button" x="-199886.4470390022" y="862646.964031574" r="86.23733574599886" s="0.02187999381074897" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>766.8410822278172</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="37_4299738" type="image" x="-199886.66700109205" y="862646.9110000206" r="86.23733574599888" s="0.02665838529169355">
+      <source w="541" h="378">
+        540198537.jpg
+        <url>540198537.jpg</url>
+      </source>
+      <resource>
+        <id>540198537</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/4/1/6509425f4687bb7bec92824f3678a42c266b4.jpg</url>
+      </resource>
+      <sourceUrl>Complexity.jpg</sourceUrl>
+    </object>
+    <object id="29_4299738" type="label" x="-198594.43980685098" y="862142.3848534574" r="40.346672706636866" s="7.34071067568632" class="strong">
+      <textfield>
+        <x>-332.3</x>
+        <y>-176.2</y>
+        <text><![CDATA[Sprint计划:团队对准备完成的Backlog高优先级条目能否做完达成一致基于团队的速率/产能/Sprint长度，创建一个Sprint Backlog。谁参加?SM: 引导会议PO: 清楚Product Backlog条目细节和它们的验收标准团队: 定义从Product Backlog选择需要完成条目的工作量团队速率? 团队产能?Sprint计划流程?]]></text>
+        <annotations>r0-9 { color: #640f1e; }
+ r14-16 { color: #5b28e0; }
+ r35-36 { color: #5b28e0; }
+ r82-86 { color: #640f1e; }
+ r166-177 { color: #640f1e; }
+ r179-190 { color: #640f1e; }
+r0-10 { align: left; }
+r11-41 { bullet: true; }
+r11-41 { align: left; }
+r11-41 { blockIndent: 36; }
+r41-81 { bullet: true; }
+r41-81 { align: left; }
+r41-81 { blockIndent: 36; }
+r82-87 { align: left; }
+r87-96 { bullet: true; }
+r87-96 { align: left; }
+r87-96 { blockIndent: 36; }
+r96-130 { bullet: true; }
+r96-130 { align: left; }
+r96-130 { blockIndent: 36; }
+r130-165 { bullet: true; }
+r130-165 { align: left; }
+r130-165 { blockIndent: 36; }
+r166-178 { align: left; }
+r179-190 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="32_4299738" type="button" x="-198664.46820033764" y="860485.9395993837" r="24.97061424385735" s="0.3156971253248553" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1143.1079520493076</w>
+        <h>366.30067204163015</h>
+      </size>
+    </object>
+    <object id="31_4299738" type="label" x="-198665.44784414314" y="860485.2970350892" r="24.97061424385733" s="0.25490769488896703" class="strong">
+      <textfield>
+        <x>-622.6</x>
+        <y>-122.6</y>
+        <text><![CDATA[准备意味着什么?“准备”应该是清晰、可行、可测试清晰:  所有的Scrum团队成员要有共享理解。通过协作来写用户故事，并增加验收标准来加强清晰程度。可行:  在一个Sprint内完成，条目必须小并且不太复杂。可测试:  实际是否与期望相一致。 验收标准确保每个故事是可测试的。经验：每个用户故事大约有3-5个验收标准。]]></text>
+        <annotations>r0-8 { color: #640f1e; }
+ r28-31 { color: #640f1e; }
+ r80-83 { color: #640f1e; }
+ r112-116 { color: #640f1e; }
+ r0-9 { align: left; }
+r10-27 { align: left; }
+r28-79 { bullet: true; }
+r28-79 { align: left; }
+r28-79 { blockIndent: 36; }
+r80-111 { bullet: true; }
+r80-111 { align: left; }
+r80-111 { blockIndent: 36; }
+r112-167 { bullet: true; }
+r112-167 { align: left; }
+r112-167 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="33_4299738" type="shape" x="-198990.38506345844" y="860424.7815097566" r="-19.65332801114311" s="2.030663934121768" class="line2">
+      <geom type="arrow">
+        <sp>-74.73623319122852 14.12991310260712</sp>
+        <ep>74.73623319122852 14.12991310260712</ep>
+        <b>-28.25982620521424</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="36_4299738" type="shape" x="-196788.971632727" y="862370.460133935" r="-11.207573364154598" s="1.889798994201641" class="line2">
+      <geom type="arrow">
+        <sp>-60.97636666048058 11.016528460888864</sp>
+        <ep>60.97636666048058 11.016528460888864</ep>
+        <b>-22.033056921777728</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="41_4299738" type="label" x="935713.243924477" y="5078.75000013372" r="-46.20400047651516" s="5.037948945058958" class="strong">
+      <textfield>
+        <x>-380</x>
+        <y>-162.8</y>
+        <text><![CDATA[每日立会: 站会问题模型!昨天你做了什么？今天你打算做什么？是否有障碍使你停滞: (可能一些问题屋子里的其他人可以提供帮助)最多15分钟 (平均每个人2:30)不要说过多的细节，如果你需要长期讨论，早会后安排一个紧急会议小心不要成为汇报会Scrum板:]]></text>
+        <annotations>r0-6 { color: #640f1e; }
+ r8-15 { color: #194a99; }
+ r129-130 { color: #194a99; }
+ r0-7 { align: left; }
+r8-16 { align: left; }
+r16-25 { bullet: true; }
+r16-25 { align: left; }
+r16-25 { blockIndent: 36; }
+r25-35 { bullet: true; }
+r25-35 { align: left; }
+r25-35 { blockIndent: 36; }
+r35-68 { bullet: true; }
+r35-68 { align: left; }
+r35-68 { blockIndent: 36; }
+r69-88 { align: left; }
+r88-119 { bullet: true; }
+r88-119 { align: left; }
+r88-119 { blockIndent: 36; }
+r119-129 { bullet: true; }
+r119-129 { align: left; }
+r119-129 { blockIndent: 36; }
+r130-137 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="46_4299738" type="button" x="1045317.428716017" y="900611.6357591308" r="39.67294259835791" s="10.708029301260629" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>973.0865618496572</w>
+        <h>547.6250610351563</h>
+      </size>
+    </object>
+    <object id="45_4299738" type="image" x="1045323.0291210316" y="900614.4040796694" r="39.67294259835791" s="11.57420827489107">
+      <source w="871" h="469">
+        540231221.jpg
+        <url>540231221.jpg</url>
+      </source>
+      <resource>
+        <id>540231221</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/4/9/c7dbd553ba57903735f81d022102fa2dcd5ee.jpg</url>
+      </resource>
+      <sourceUrl>Sprint_Retro2.jpg</sourceUrl>
+    </object>
+    <object id="3_4720409" type="button" x="-199416.59851455255" y="862425.2014502408" r="40.346672706636895" s="0.33762216551576907" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1017.7315693075138</w>
+        <h>434.13111139129614</h>
+      </size>
+    </object>
+    <object id="2_4720409" type="label" x="-199448.48360138317" y="862400.9564487203" r="40.34667270663695" s="0.39308434377557405" class="strong">
+      <textfield>
+        <x>-262.35</x>
+        <y>-122.6</y>
+        <text><![CDATA[团队速率? 团队的速率由上一个Sprint继承而来.   团队产能? 没有稳定速率的团队，作为每个团队成员:每天工作的小时数? 不超过6小时Sprint中每人有效天数?  2周的Sprint不超过9天人们为这个团队贡献的时间百分比?云平台JOS团队的产能是什么?]]></text>
+        <w>524.75</w>
+        <h>245.2</h>
+        <annotations>r0-5 { color: #640f1e; }
+ r31-36 { color: #640f1e; }
+ r67-73 { color: #5b28e0; }
+ r74-87 { color: #000; }
+ r88-89 { color: #194a99; }
+ r90-99 { color: #194a99; }
+ r99-104 { color: #5b28e0; }
+ r122-138 { color: #322c69; }
+r0-30 { align: left; }
+r31-57 { align: left; }
+r57-74 { bullet: true; }
+r57-74 { align: left; }
+r57-74 { blockIndent: 36; }
+r74-105 { bullet: true; }
+r74-105 { align: left; }
+r74-105 { blockIndent: 36; }
+r105-122 { bullet: true; }
+r105-122 { align: left; }
+r105-122 { blockIndent: 36; }
+r123-138 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="1_4723330" type="button" x="-199344.9684026232" y="862537.1838998882" r="-0.0000010759416985743775" s="0.042750980778689704" class="circle">
+      <type>circle</type>
+      <size>
+        <w>723.3226013183594</w>
+        <h>723.3226013183594</h>
+      </size>
+    </object>
+    <object id="0_4723330" type="label" x="-199343.75610540056" y="862536.8500227043" r="-0.0000010759417625088682" s="0.08005024315097595" class="body">
+      <textfield>
+        <x>-127.25</x>
+        <y>-82.4</y>
+        <text><![CDATA[产能:团队人数:   4每日实际工作小时数:   62周Sprint实际天数:   8产能:  4 x 6 x 8 = 192]]></text>
+        <annotations>r0-4 { color: #640f1e; }
+ r5-68 { color: #322c69; }
+r0-4 { align: left; }
+r5-15 { align: left; }
+r15-30 { align: left; }
+r30-48 { align: left; }
+r48-68 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="3_4723330" type="shape" x="-199368.26367463428" y="862536.4441853075" r="18.32486650389185" s="0.10177394453512047" class="line2">
+      <geom type="arrow">
+        <sp>-56.48485022343129 -14.690589817800271</sp>
+        <ep>56.48485022343129 -14.690589817800271</ep>
+        <b>29.381179635600542</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="5_4723330" type="button" x="-199935.34672103325" y="862566.9595229513" r="40.346672706636866" s="0.2859050719076899" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1030.3637938477734</w>
+        <h>562.8671875</h>
+      </size>
+    </object>
+    <object id="4_4723330" type="label" x="-199928.79667410583" y="862558.6799810261" r="40.346672706636916" s="0.2537802088715016" class="strong">
+      <textfield>
+        <x>-495.8</x>
+        <y>-216.4</y>
+        <text><![CDATA[Sprint计划流程:通常包括2部分: (2 x 2 小时 --> 2周的Sprint)Part-1:  产品负责人描述最高优先级product backlog条目产品负责人和团队对验收标准达成一致(范围增减、期望质量、限度)团队评估工作量并选择他们认为可以在本迭代完成的条目，复杂度?Part-2:  团队将需要完成的条目拆分成任务团队成员认领工作任务拥有者对需要完成的任务评估理想小时数如果在Part-1中选择的太多或太少：团队需要和产品负责人重新协商另外: 需求和需求对应的任务之间存在关联]]></text>
+        <w>991.6</w>
+        <h>432.8</h>
+        <annotations>r0-11 { color: #640f1e; }
+ r12-46 { color: #194a99; }
+ r46-48 { color: #640f1e; }
+ r146-150 { color: #965432; }
+ r243-263 { color: #194a99; }
+r0-12 { align: left; }
+r13-47 { align: left; }
+r48-58 { bullet: true; }
+r48-58 { align: left; }
+r48-58 { blockIndent: 36; }
+r58-88 { bullet: true; }
+r58-88 { align: left; }
+r58-88 { blockIndent: 72; }
+r88-120 { bullet: true; }
+r88-120 { align: left; }
+r88-120 { blockIndent: 72; }
+r120-151 { bullet: true; }
+r120-151 { align: left; }
+r120-151 { blockIndent: 72; }
+r152-162 { bullet: true; }
+r152-162 { align: left; }
+r152-162 { blockIndent: 36; }
+r162-178 { bullet: true; }
+r162-178 { align: left; }
+r162-178 { blockIndent: 72; }
+r178-187 { bullet: true; }
+r178-187 { align: left; }
+r178-187 { blockIndent: 72; }
+r187-208 { bullet: true; }
+r187-208 { align: left; }
+r187-208 { blockIndent: 72; }
+r208-242 { bullet: true; }
+r208-242 { align: left; }
+r208-242 { blockIndent: 72; }
+r243-263 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="6_4723330" type="shape" x="-199881.6397716164" y="862634.4702892401" r="59.38271617169981" s="0.0369670758943517" class="line2">
+      <geom type="arrow">
+        <sp>-104.72430367261788 36.579365511958</sp>
+        <ep>104.72430367261788 36.579365511958</ep>
+        <b>-73.158731023916</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="7_4723330" type="shape" x="-200000.46203887198" y="862282.1930354453" r="32.04180918603101" s="2.03066393412177" class="line2">
+      <geom type="arrow">
+        <sp>-125.70469948380789 42.618566678944525</sp>
+        <ep>125.7046994838079 42.618566678944525</ep>
+        <b>-85.23713335788905</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="8_4723330" type="shape" x="-199487.34437769649" y="862207.8912818942" r="25.346674602203606" s="2.0306639341217707" class="line2">
+      <geom type="arrow">
+        <sp>-107.85644048417124 36.94019107610668</sp>
+        <ep>107.85644048417124 36.94019107610668</ep>
+        <b>-73.88038215221336</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="0_4151699" type="shape" x="935306.8494851412" y="6483.213692354371" r="-73.94766416868363" s="2.20745722909265" class="line2">
+      <geom type="arrow">
+        <sp>-47.75368751299225 13.56851068010687</sp>
+        <ep>47.75368751299224 13.56851068010687</ep>
+        <b>-27.13702136021374</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="1_4762509" type="button" x="408086.71143412206" y="538648.497463039" r="0" s="7.118123223953843" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>975.013114376253</w>
+        <h>664.57177734375</h>
+      </size>
+    </object>
+    <object id="0_4762509" type="label" x="407936.54893446784" y="538679.6430822021" r="0" s="11.768264595801734" class="strong">
+      <textfield>
+        <x>-239.95</x>
+        <y>-162.8</y>
+        <text><![CDATA[Sprint 结束语:极端情况团队可建议产品负责人终止迭代: 不能达到Sprint目标Scrum Master 可建议产品负责人终止迭代: 团队已偏离了Scrum规则产品负责人是有权终止迭代的唯一角色:  优先级的变化代表业务环境也发生了变化]]></text>
+        <w>479.9</w>
+        <h>325.6</h>
+        <annotations>r0-11 { color: #640f1e; }
+ r19-21 { color: #194a99; }
+ r50-62 { color: #194a99; }
+ r93-98 { color: #194a99; }
+ r98-113 { color: #000; }
+ r0-12 { align: left; }
+r13-18 { align: center; }
+r19-36 { bullet: true; }
+r19-36 { align: left; }
+r19-36 { blockIndent: 36; }
+r36-49 { align: left; }
+r36-49 { blockIndent: 36; }
+r50-78 { bullet: true; }
+r50-78 { align: left; }
+r50-78 { blockIndent: 36; }
+r78-92 { align: left; }
+r78-92 { blockIndent: 36; }
+r93-114 { bullet: true; }
+r93-114 { align: left; }
+r93-114 { blockIndent: 36; }
+r114-132 { align: left; }
+r114-132 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="3_4762509" type="button" x="785372.4028675548" y="709573.8170434237" r="0" s="30.90475590271424" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1252.0514241605997</w>
+        <h>711.2208331301808</h>
+      </size>
+    </object>
+    <object id="2_4762509" type="label" x="785904.9439205336" y="709309.3500186709" r="0" s="34.42958663394227" class="strong">
+      <textfield>
+        <x>-445.25</x>
+        <y>-216.4</y>
+        <text><![CDATA[Sprint评审:需要所有干系人都参加的两个小时的会议产品负责人识别做完了什么团队讨论做好的，期间遇到的问题，如何解决的。团队演示迭代期间做完的工作产品负责人讨论Product Backlog对应条目是否可以通过确定下一步团队该如何协作？规则:团队不应该花费超过1个小时的时间来准备演示没有“Done”的功能不能展现演示的功能必须是近期发生的。不要说“这是以前的一个功能”干系人需要识别功能是否可交付干系人根据演示反馈识别是否需要添加新功能到Product Backlog中，并确定优先级]]></text>
+        <annotations>r0-9 { color: #640f1e; }
+ r11-29 { color: #322c69; }
+ r129-133 { color: #322c69; }
+ r200-215 { color: #175d66; }
+ r0-10 { align: left; }
+r11-30 { align: left; }
+r31-44 { align: left; }
+r44-67 { bullet: true; }
+r44-67 { align: left; }
+r44-67 { blockIndent: 36; }
+r67-81 { bullet: true; }
+r67-81 { align: left; }
+r67-81 { blockIndent: 36; }
+r81-114 { bullet: true; }
+r81-114 { align: left; }
+r81-114 { blockIndent: 36; }
+r114-128 { bullet: true; }
+r114-128 { align: left; }
+r114-128 { blockIndent: 36; }
+r129-133 { align: left; }
+r133-155 { bullet: true; }
+r133-155 { align: left; }
+r133-155 { blockIndent: 36; }
+r155-171 { bullet: true; }
+r155-171 { align: left; }
+r155-171 { blockIndent: 36; }
+r171-200 { bullet: true; }
+r171-200 { align: left; }
+r171-200 { blockIndent: 36; }
+r200-215 { bullet: true; }
+r200-215 { align: left; }
+r200-215 { blockIndent: 36; }
+r215-259 { bullet: true; }
+r215-259 { align: left; }
+r215-259 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="2" type="button" x="517426.61989727186" y="-693400.0910568846" r="-37.25625084752131" s="2.2952922217656777" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1587.636155851956</w>
+        <h>703.455322265625</h>
+      </size>
+    </object>
+    <object id="0" type="label" x="516764.75721912616" y="-693550.5011757447" r="-37.25625084752131" s="7.179415203343807" class="head">
+      <textfield autoSize="true">
+        <x>-146</x>
+        <y>-15.4</y>
+        <text><![CDATA[项目管理是过程治理框架：]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="1" type="label" x="517521.57333487965" y="-693347.5334991001" r="-37.256250847521315" s="5.1281537166741495" class="body">
+      <textfield>
+        <x>-296</x>
+        <y>-95.8</y>
+        <text><![CDATA[项目目标          什么-为什么-什么时候-为谁-如何？干系人              RACI：谁负责-谁批准-咨询谁-通知谁？范围&质量       特性-排除-质量-容忍？时间表              什么时候需要？我们什么时候交付？成本                  钱花在哪儿？花多少？风险                  我们知道所有的风险吗？我们能缓解吗？配置                   基线-变更控制-版本控制-范围缓增？]]></text>
+        <annotations>r0-33 { align: left; }
+r33-72 { align: left; }
+r72-97 { align: left; }
+r97-131 { align: left; }
+r131-162 { align: left; }
+r162-201 { align: left; }
+r201-240 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="3" type="video" x="522641.4" y="905882.1" r="0" s="397.3373217420003" onFocus="start" onLeave="pause">
+      <source>
+        agileinaction.flv
+        <url>agileinaction.flv</url>
+      </source>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="2_4435214"/>
+    </s>
+    <s>
+      <eagle o="2"/>
+    </s>
+    <s>
+      <eagle o="0_4444166"/>
+    </s>
+    <s>
+      <eagle o="3_4444166"/>
+    </s>
+    <s>
+      <eagle o="5_4444166"/>
+    </s>
+    <s>
+      <eagle o="18_4444166"/>
+    </s>
+    <s>
+      <eagle o="0_4444166"/>
+    </s>
+    <s>
+      <eagle o="3_4470367"/>
+    </s>
+    <s>
+      <eagle o="2_4543226"/>
+    </s>
+    <s>
+      <eagle o="3_4470367"/>
+    </s>
+    <s>
+      <eagle o="2_4299738"/>
+    </s>
+    <s>
+      <eagle o="7_4543226"/>
+    </s>
+    <s>
+      <eagle o="5_4470367"/>
+    </s>
+    <s>
+      <eagle o="7_4299738"/>
+    </s>
+    <s>
+      <eagle o="8_4299738"/>
+    </s>
+    <s>
+      <eagle o="7_4299738"/>
+    </s>
+    <s>
+      <eagle o="5_4470367"/>
+    </s>
+    <s>
+      <eagle o="10_4299738"/>
+    </s>
+    <s>
+      <eagle o="5_4470367"/>
+    </s>
+    <s>
+      <eagle o="13_4299738"/>
+    </s>
+    <s>
+      <eagle o="5_4470367"/>
+    </s>
+    <s>
+      <eagle o="17_4299738"/>
+    </s>
+    <s>
+      <eagle o="19_4299738"/>
+    </s>
+    <s>
+      <eagle o="17_4299738"/>
+    </s>
+    <s>
+      <eagle o="24_4299738"/>
+    </s>
+    <s>
+      <eagle o="17_4299738"/>
+    </s>
+    <s>
+      <eagle o="5_4470367"/>
+    </s>
+    <s>
+      <eagle o="28_4299738"/>
+    </s>
+    <s>
+      <eagle o="30_4299738"/>
+    </s>
+    <s>
+      <eagle o="32_4299738"/>
+    </s>
+    <s>
+      <eagle o="30_4299738"/>
+    </s>
+    <s>
+      <eagle o="35_4299738"/>
+    </s>
+    <s>
+      <eagle o="30_4299738"/>
+    </s>
+    <s>
+      <eagle o="3_4720409"/>
+    </s>
+    <s>
+      <eagle o="1_4723330"/>
+    </s>
+    <s>
+      <eagle o="3_4720409"/>
+    </s>
+    <s>
+      <eagle o="30_4299738"/>
+    </s>
+    <s>
+      <eagle o="4_4723330"/>
+    </s>
+    <s>
+      <eagle o="0_4166457"/>
+    </s>
+    <s>
+      <eagle o="5_4723330"/>
+    </s>
+    <s>
+      <eagle o="30_4299738"/>
+    </s>
+    <s>
+      <eagle o="5_4470367"/>
+    </s>
+    <s>
+      <eagle o="43_4299738"/>
+    </s>
+    <s>
+      <eagle o="40_4299738"/>
+    </s>
+    <s>
+      <eagle o="43_4299738"/>
+    </s>
+    <s>
+      <eagle o="5_4470367"/>
+    </s>
+    <s>
+      <eagle o="3_4762509"/>
+    </s>
+    <s>
+      <eagle o="4_4470367"/>
+    </s>
+    <s>
+      <eagle o="45_4299738"/>
+    </s>
+    <s>
+      <eagle o="5_4470367"/>
+    </s>
+    <s>
+      <eagle o="3"/>
+    </s>
+    <s>
+      <eagle o="1_4762509"/>
+    </s>
+    <s>
+      <eagle o="5_4470367"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('SIMsongti.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('SIMsongti.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('SIMsongti.swf');
+	fontFamily: strong;
+}
+
+background
+{
+	gradEnd: #808080;
+	gradStart: #808080;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.title
+{
+	color: #fff808;
+	fontFamily: head;
+}
+
+text.subtitle
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+text.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+frame.circle
+{
+	borderColor: #999;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+frame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #fff;
+	thickness: 7;
+}
+
+frame.rectangle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+	radius: 0;
+}
+
+arrow
+{
+	borderColor: #fff;
+	borderThickness: -1;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+line-arrow.style2
+{
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	color: #fff808;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line-arrow.style4
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+line-arrow.style5
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+circle
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape
+{
+	borderAlpha: 1;
+	gradEndAlpha: 0.8;
+	gradStartAlpha: 0.7;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape.style1
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+shape.style2
+{
+	borderColor: #c5c3c3;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderColor: #fff808;
+	borderThickness: 0;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+shape.style4
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+shape.style5
+{
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+Background
+{
+	gradEnd: #f7f7f7;
+	gradStart: #f7f7f7;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	color: #640f1e;
+	fontFamily: head;
+}
+
+.line5
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.poly5
+{
+	borderColor: #333;
+	borderThickness: 9;
+	color: #f7f7f7;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZLabel.strong
+{
+	color: #333;
+	fontFamily: strong;
+}
+
+.line1
+{
+	color: #3fc0ff;
+	gradEndColor: #3fc0ff;
+	gradStartColor: #3fc0ff;
+}
+
+.poly1
+{
+	borderColor: #3fc0ff;
+	borderThickness: 9;
+	color: #f7f7f7;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZLabel.body
+{
+	color: #194a99;
+	fontFamily: body;
+}
+
+ZFrame.circle
+{
+	borderColor: #7dc3cc;
+	borderThickness: 0;
+	gradEndColor: #175d66;
+	gradStartColor: #175d66;
+}
+
+.line4
+{
+	color: #ffbe00;
+	gradEndColor: #ffbe00;
+	gradStartColor: #ffbe00;
+}
+
+.poly4
+{
+	borderColor: #004f75;
+	borderThickness: 0;
+	color: #f7f7f7;
+	gradEndColor: #004f75;
+	gradStartColor: #004f75;
+}
+
+ZFrame.bracket
+{
+	borderColor: #fcba98;
+	borderThickness: 0;
+	gradEndColor: #965432;
+	gradStartColor: #965432;
+}
+
+.line2
+{
+	borderColor: #fff;
+	color: #f00;
+	gradEndColor: #f00;
+	gradStartColor: #f00;
+}
+
+.poly2
+{
+	borderColor: #3fc0ff;
+	borderThickness: 0;
+	color: #f7f7f7;
+	gradEndColor: #3fc0ff;
+	gradStartColor: #3fc0ff;
+}
+
+ZFrame.roundrect
+{
+	borderColor: #fcba98;
+	borderThickness: 0;
+	gradEndColor: #965432;
+	gradStartColor: #965432;
+}
+
+ZArrow
+{
+	borderColor: #7e78b5;
+	borderThickness: 0;
+	gradEndColor: #322c69;
+	gradStartColor: #322c69;
+}
+
+.line3
+{
+	color: #322c69;
+	gradEndColor: #322c69;
+	gradStartColor: #322c69;
+}
+
+.poly3
+{
+	borderColor: #004f75;
+	borderThickness: 9;
+	color: #f7f7f7;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZLine
+{
+	color: #322c69;
+}
+
+ZCurveLine
+{
+	color: #322c69;
+}
+
+ZMarker
+{
+	color: #ff7900;
+}
+
+Grid
+{
+	color: #b4b4b4;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+]]></style>
+  <hash>-492cce2</hash>
+  <sync>
+    <oid>zrdkongwfw3q</oid>
+    <hash>-5258d82c</hash>
+    <lid>vbrutP7S</lid>
+  </sync>
+  <config>DivHVIztPoCPKQAbC6UBJXpQxrYrmI+cnw==</config>
+</zuiprezi>

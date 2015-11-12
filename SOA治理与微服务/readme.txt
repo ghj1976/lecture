@@ -1,6 +1,8 @@
 
 
 讨论 Dubbo 的技术架构
+http://dubbo.io/User+Guide-zh.htm
+https://github.com/alibaba/dubbo
 
 Dubbo
 

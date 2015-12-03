@@ -32,4 +32,7 @@ http://www.100toutiao.com/index.php?m=Index&a=show&cat=1&id=41470
 http://dockone.io/article/452
 
 
+7种微服务反模式
+http://www.infoq.com/cn/articles/seven-uservices-antipatterns
+
 

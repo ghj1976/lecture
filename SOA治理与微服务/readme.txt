@@ -34,5 +34,7 @@ http://dockone.io/article/452
 
 7种微服务反模式
 http://www.infoq.com/cn/articles/seven-uservices-antipatterns
+http://news.cnblogs.com/n/529062/
+
 
 
